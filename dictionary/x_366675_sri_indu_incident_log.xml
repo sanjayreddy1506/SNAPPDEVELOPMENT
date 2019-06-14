@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="incident_log" max_length="40" name="x_366675_sri_indu_incident_log" sizeclass="2" type="collection">
+        <element choice="1" label="Inc con type" max_length="100" name="inc_con_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" sequence="0" value="email"/>
+                <element inactive_on_update="false" label="phone" sequence="1" value="phone"/>
+            </choice>
+        </element>
+        <element label="requestdate" max_length="100" name="requestdate" type="glide_date_time"/>
+        <element label="Returndate" max_length="100" name="returndate" type="glide_date_time"/>
+        <element label="sindu short description" max_length="100" name="sindu_short_description" type="string"/>
+        <element display="true" function_definition="function defined" function_field="true" label="sriindu dex" mandatory="true" max_length="100" name="sriindu_dex" read_only="true" type="string"/>
+    </element>
+</database>
