@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_first_name" label="first_name" language="en" table="x_366675_sri_indu_indian_22">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_first_name</element>
+            <help/>
+            <hint/>
+            <label>first_name</label>
+            <language>en</language>
+            <name>x_366675_sri_indu_indian_22</name>
+            <plural>first_names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:15:00</sys_created_on>
+            <sys_id>6c58651adbc677003c6e5fc74b9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>first_name</sys_name>
+            <sys_package display_value="sri indu IT" source="x_366675_sri_indu">b0db3d1cdbca33003c6e5fc74b961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sri indu IT">b0db3d1cdbca33003c6e5fc74b961932</sys_scope>
+            <sys_update_name>sys_documentation_x_366675_sri_indu_indian_22_u_first_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:15:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

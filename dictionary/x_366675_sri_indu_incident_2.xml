@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="incident_2" max_length="40" name="x_366675_sri_indu_incident_2" sizeclass="2" type="collection">
+    <element extends="task" label="incident_2" max_length="40" name="x_366675_sri_indu_incident_2" type="collection">
         <element label="data str" mandatory="true" max_length="100" name="data_str" type="data_structure"/>
         <element default="100" label="ind" max_length="40" name="ind" type="string"/>
         <element choice="1" label="type" max_length="40" name="type" type="choice">

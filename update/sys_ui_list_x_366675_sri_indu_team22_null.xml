@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_366675_sri_indu_team22" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_366675_sri_indu_team22" element="NULL" name="x_366675_sri_indu_team22" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">366d29dadbc677003c6e5fc74b961997</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:37:16</sys_created_on>
+            <sys_id>ba6d29dadbc677003c6e5fc74b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:37:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_366675_sri_indu_team22" element="NULL" name="x_366675_sri_indu_team22" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">366d29dadbc677003c6e5fc74b961997</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:37:16</sys_created_on>
+            <sys_id>3e6d29dadbc677003c6e5fc74b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:37:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_366675_sri_indu_team22" element="NULL" name="x_366675_sri_indu_team22" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">366d29dadbc677003c6e5fc74b961997</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:37:16</sys_created_on>
+            <sys_id>be6d29dadbc677003c6e5fc74b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:37:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_366675_sri_indu_team22" element="NULL" name="x_366675_sri_indu_team22" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">366d29dadbc677003c6e5fc74b961997</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:37:16</sys_created_on>
+            <sys_id>326d29dadbc677003c6e5fc74b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:37:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_366675_sri_indu_team22" element="NULL" name="x_366675_sri_indu_team22" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">366d29dadbc677003c6e5fc74b961997</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:37:16</sys_created_on>
+            <sys_id>b26d29dadbc677003c6e5fc74b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:37:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_366675_sri_indu_team22" element="NULL" name="x_366675_sri_indu_team22" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">366d29dadbc677003c6e5fc74b961997</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:37:16</sys_created_on>
+            <sys_id>366d29dadbc677003c6e5fc74b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:37:16</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_366675_sri_indu_team22</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 08:37:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>366d29dadbc677003c6e5fc74b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366675_sri_indu_team22</sys_name>
+            <sys_package display_value="sri indu IT" source="x_366675_sri_indu">b0db3d1cdbca33003c6e5fc74b961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sri indu IT">b0db3d1cdbca33003c6e5fc74b961932</sys_scope>
+            <sys_update_name>sys_ui_list_x_366675_sri_indu_team22_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 08:37:16</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

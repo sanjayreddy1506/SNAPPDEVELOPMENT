@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="acl testing" max_length="40" name="x_366675_sri_indu_acl_testing" type="collection">
+        <element label="number" max_length="40" name="number" type="integer"/>
+        <element label="short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>

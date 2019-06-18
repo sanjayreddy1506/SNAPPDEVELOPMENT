@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>glideajax</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	var ga = new GlideAjax('HelloWorld');
+ga.addParam('sysparm_name', 'helloWorld');
+ga.addParam('sysparm_user_name', "Bob");
+ga.getXML(HelloWorldParse);
+ 
+function HelloWorldParse(response) {
+  var answer = response.responseXML.documentElement.getAttribute("answer");
+  alert(answer); }
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 05:05:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bc99eee9db4ef3003c6e5fc74b9619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glideajax</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="sri indu IT" source="x_366675_sri_indu">b0db3d1cdbca33003c6e5fc74b961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu IT">b0db3d1cdbca33003c6e5fc74b961932</sys_scope>
+        <sys_update_name>sys_script_client_bc99eee9db4ef3003c6e5fc74b9619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 05:05:13</sys_updated_on>
+        <table>x_366675_sri_indu_incident_log</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
