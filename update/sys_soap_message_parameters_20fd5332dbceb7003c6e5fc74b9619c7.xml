@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message_parameters">
+    <sys_soap_message_parameters action="INSERT_OR_UPDATE">
+        <name>insert.import_set_run</name>
+        <soap_function display_value="insert">7c5c5b32dbceb7003c6e5fc74b961922</soap_function>
+        <sys_class_name>sys_soap_message_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 06:05:52</sys_created_on>
+        <sys_id>20fd5332dbceb7003c6e5fc74b9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>insert.import_set_run</sys_name>
+        <sys_package display_value="sri indu IT" source="x_366675_sri_indu">b0db3d1cdbca33003c6e5fc74b961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu IT">b0db3d1cdbca33003c6e5fc74b961932</sys_scope>
+        <sys_update_name>sys_soap_message_parameters_20fd5332dbceb7003c6e5fc74b9619c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 06:05:52</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </sys_soap_message_parameters>
+</record_update>

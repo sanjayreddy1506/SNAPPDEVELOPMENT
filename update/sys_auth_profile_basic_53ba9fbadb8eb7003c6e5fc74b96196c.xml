@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>basic2</name>
+        <password>TTg4hBf6cin233kE9Wi/9w==</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 05:53:03</sys_created_on>
+        <sys_id>53ba9fbadb8eb7003c6e5fc74b96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>basic2</sys_name>
+        <sys_package display_value="sri indu IT" source="x_366675_sri_indu">b0db3d1cdbca33003c6e5fc74b961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu IT">b0db3d1cdbca33003c6e5fc74b961932</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_53ba9fbadb8eb7003c6e5fc74b96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 05:53:03</sys_updated_on>
+        <username>admin</username>
+    </sys_auth_profile_basic>
+</record_update>
